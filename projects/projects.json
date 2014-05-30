@@ -1,6 +1,28 @@
 {
   "featured": "YouTube on PS3",
   "projects": [
+    {
+      "name": "Barnraiser",
+      "thumb": "barnraiser/thumb.png",
+      "desc": "Barnraiser is a crowdfunding platform for sustainable food and farming",
+      "url": "https://www.barnraiser.us",
+      "submitter": "elado",
+      "submissionDate": "2014-05-30",
+      "tags": [
+        "Production",
+        "Crowdfunding",
+        "Food",
+        "Local Storage",
+        "Angular UI",
+        "Bootstrap",
+        "jQuery",
+        "Ruby on Rails",
+        "Rails",
+        "Responsive",
+        "Mobile",
+        "Web"
+      ]
+    },
   {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
